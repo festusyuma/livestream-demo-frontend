@@ -2,7 +2,7 @@
   "name": "livestream-demo-v2",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --port=1928",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
